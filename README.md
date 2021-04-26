@@ -1,5 +1,4 @@
-# charivna-mozaika
-## Home page of the confectionery factory 
+# Home page of the confectionery factory Charivna Mozaika
 Without responsiveness<br>
 PerfectPixel
 ---
