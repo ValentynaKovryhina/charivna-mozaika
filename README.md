@@ -1,6 +1,6 @@
 # charivna-mozaika
 ## Home page of the confectionery factory 
-Without responsiveness
+Without responsiveness<br>
 PerfectPixel
 ---
 link to open in browser https://valentynakovryhina.github.io/charivna-mozaika/src/
